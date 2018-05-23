@@ -3,7 +3,7 @@
   
 ## Overview 
 
-`ingestfile -a` is a process run on every Audio Preservation Master file.  The process produces an Archival Information Package for audio assets, including:  
+`ingestfile -a` is a process which produces an Archival Information Package for audio assets, including:  
 
   * md5
   * Technical metadata
